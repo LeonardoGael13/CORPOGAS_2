@@ -1,0 +1,17 @@
+5 - don juan - Turno 3 - 2025-10-28 22:00:00 - V/F: V
+6 - don pepe - Turno 3 - 2025-10-28 22:00:00 - V/F: V
+7 - beto - Turno 2 - 2025-10-28 14:00:00 - V/F: V
+8 - guillermo - Turno 2 - 2025-10-28 14:00:00 - V/F: V
+9 - guillermo - Turno 1 - 2025-10-29 06:00:00 - V/F: V
+10 - antonio - Turno 1 - 2025-10-29 06:00:00 - V/F: V
+11 - ivan - Turno 2 - 2025-10-29 14:00:00 - V/F: V
+12 - beto - Turno 2 - 2025-10-29 14:00:00 - V/F: V
+13 - don pepe - Turno 3 - 2025-10-29 22:00:00 - V/F: V
+14 - don juan - Turno 3 - 2025-10-29 22:00:00 - V/F: V
+15 - martin - Turno 1 - 2025-10-30 02:56:00 - V/F: V
+17 - guillermo - Turno 1 - 2025-10-30 02:50:00 - V/F: V
+
+1 - MARTIN  - Turno 1 - 2025-12-01 06:55:00 - Estado: Falta - V/F: F
+2 - don juan - Turno 3 - 2025-10-28 22:00:00 - V/F: V3 - IVAN - Turno 2 - 2025-12-01 13:55:00 - Estado: A tiempo - V/F: F
+3 - IVAN - Turno 2 - 2025-12-04 13:55:00 - Estado: A tiempo - V/F: F
+4 - GUILLERMO - Turno 2 - 2025-12-04 13:55:00 - Estado: A tiempo - V/F: V

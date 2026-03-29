@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"I",
+				"import"
+			],
+			[
+				"re",
+				"Leer_registros"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"d",
+				"def\tFunction"
+			],
+			[
+				"e",
+				"empleado"
+			],
+			[
+				"li",
+				"linea"
+			],
+			[
+				"l",
+				"linea"
+			],
+			[
+				"a",
+				"auto2"
+			],
+			[
+				"A",
+				"Avion"
+			],
+			[
+				"in",
+				"isbn"
+			],
+			[
+				"b",
+				"bicicleta2"
+			],
+			[
+				"y",
+				"yate2"
+			],
+			[
+				"p",
+				"preparartoria"
+			],
+			[
+				"P",
+				"print"
+			],
+			[
+				"m",
+				"math"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "PANTALLAS_EN_PY/login2.py",
+			"settings":
+			{
+				"buffer_size": 4876,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					206,
+					1,
+					"insert",
+					{
+						"characters": "1"
+					},
+					"AQAAAL8BAAAAAAAAwAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC/AQAAAAAAAL8BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					207,
+					1,
+					"left_delete",
+					null,
+					"AQAAAL8BAAAAAAAAvwEAAAAAAAABAAAAMQ",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADAAQAAAAAAAMABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					208,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAL8BAAAAAAAAwAEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC/AQAAAAAAAL8BAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					211,
+					1,
+					"paste",
+					null,
+					"AQAAAMABAAAAAAAA9QEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAADAAQAAAAAAAMABAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					212,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPQBAAAAAAAA9AEAAAAAAAABAAAACg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAD1AQAAAAAAAPUBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					219,
+					1,
+					"paste",
+					null,
+					"AQAAAFYPAAAAAAAAeg8AAAAAAAAsAAAAICAgICAgICBzZWxmLnVpX3JlZ2lzdHJvID0gUmVnaXN0cm9EaWFsb2coKQo",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABWDwAAAAAAAIIPAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					222,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAAFoPAAAAAAAAXg8AAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABaDwAAAAAAAFoPAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		},
+		{
+			"file": "PANTALLAS_EN_PY/Registro_usuario.py",
+			"redo_stack":
+			[
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHgBAAAAAAAAeQEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB4AQAAAAAAAHgBAAAAAAAAAAAAAAAA8L8"
+				]
+			],
+			"settings":
+			{
+				"buffer_size": 4426,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					10,
+					1,
+					"paste",
+					null,
+					"AQAAAHkBAAAAAAAAggEAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAB5AQAAAAAAAHkBAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					19,
+					9,
+					"left_delete",
+					null,
+					"CQAAAIEBAAAAAAAAgQEAAAAAAAABAAAAIIABAAAAAAAAgAEAAAAAAAABAAAAUn8BAAAAAAAAfwEAAAAAAAABAAAASX4BAAAAAAAAfgEAAAAAAAABAAAARH0BAAAAAAAAfQEAAAAAAAABAAAAX3wBAAAAAAAAfAEAAAAAAAABAAAARXsBAAAAAAAAewEAAAAAAAABAAAAU3oBAAAAAAAAegEAAAAAAAABAAAAQXkBAAAAAAAAeQEAAAAAAAABAAAAQg",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACCAQAAAAAAAIIBAAAAAAAAAAAAAAAA8L8"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/crisg/GitHub/trabajo/CorpoGasRH",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/CD",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Pantallas"
+	],
+	"file_history":
+	[
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/CD/Login.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/camviar_visisbilidad.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/Menu_registro_empleado.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/consultar_entradas.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/CD/Grafica.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/grafica.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/menu_principal.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/Cmbiar_hurat.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/login2.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/login2.spec",
+		"/D/crisg/crisg/sdkFP/Consultar.py",
+		"/C/Users/crisg/Registro_usuario.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/CD/Registro_empleados.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/Registro_usuario.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/loginimag.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/loginimag_rc.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/prueba_rc.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/pro.sublime-project",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/CD/Consultar_enteradas.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/cambiar_visibilidad.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .UI/camviar_visisbilidad.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/cambiar_visibilidad1.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .UI/cambiar_visibilidad1.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .UI/cambiar_visibilidad.py",
+		"/D/crisg/Downloads/cambiar_visibilidad (1).py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/Menu_Cambio_1.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/Cambiar_visibilidad_2.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/Menu_Cambio_2.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/CD/Registro_empleados.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS_EN_PY/consultar_entradas (1).py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .UI/Menu_registro_empleado.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/CD/Main.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/Menu_registro_empleado.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/menu_principal.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/Menu_Cambio_1.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/login2.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/Registro_usuario.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/menu2.py",
+		"/D/crisg/Downloads/Boton.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/loginimag_rc.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/Cambiar_visibilidad_2.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/cambiar_visibilidad.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/CD/main.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .UI/loginimag.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/consultar_entradas.py",
+		"/D/crisg/Downloads/menu2.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .UI/Registro_usuario.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/PANTALLAS EN .PY/prueba_rc.py",
+		"/D/crisg/GitHub/trabajo/CORPOGAS_2/CD/login2.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/CD/Login.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Codigo/Grafica.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Codigo/Registro_empleados.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Codigo/main.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Codigo/txt/entradas.txt",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/login2.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/menu2.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Codigo/Consultar_enteradas.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/main.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Grafica.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Consultar_enteradas.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/Registro_empleados.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/entradas.txt",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/menu_principal.ui",
+		"/D/crisg/GitHub/trabajo/ProyectoFinal/main.py",
+		"/D/crisg/GitHub/trabajo/ProyectoFinal/Consultar_enteradas.py",
+		"/D/crisg/GitHub/trabajo/ProyectoFinal/Grafica.py",
+		"/D/crisg/GitHub/trabajo/ProyectoFinal/Registro_empleados.py",
+		"/D/crisg/GitHub/trabajo/CorpoGasRH/README.md",
+		"/D/crisg/GitHub/ProyectoFinal/ProyectoFinal/main.py",
+		"/D/crisg/GitHub/fp/unidad_4/Ejercicio41.py",
+		"/D/crisg/GitHub/fp/unidad_4/Ejercicio42.py",
+		"/D/crisg/GitHub/fp/unidad_4/Ejercicio43.py",
+		"/D/crisg/GitHub/fp/unidad_2/Comentarios.py",
+		"/D/crisg/GitHub/trabajo/trabajo1/Registro_empleados.py",
+		"/D/crisg/GitHub/trabajo/trabajo1/main.py",
+		"/D/crisg/GitHub/fp/unudad_3/sdkFP/Guardar.py",
+		"/D/crisg/GitHub/fp/unudad_3/sdkFP/Consultar.py",
+		"/D/crisg/GitHub/trabajo/Nueva carpeta/trabajadores.py",
+		"/D/crisg/GitHub/fp/unudad_3/InterfazGrafica.py",
+		"/D/crisg/GitHub/trabajo/trabajo1/Eliminar_entradas.py",
+		"/D/crisg/GitHub/trabajo/trabajo1/Consultar_enteradas.py",
+		"/D/crisg/GitHub/fp/unudad_3/Biblioteca/__pycache__/Consultar_libro.cpython-313.pyc",
+		"/D/crisg/Nueva carpeta/gas/eliminar_entradas.py",
+		"/D/crisg/Nueva carpeta/gas/Consultar_enteradas.py",
+		"/D/crisg/Nueva carpeta/gas/Registro_empleados.py",
+		"/D/crisg/Nueva carpeta/gas/main.py",
+		"/D/crisg/GitHub/fp/unudad_3/Biblioteca/main.py",
+		"/D/crisg/GitHub/fp/unudad_3/Biblioteca/Guardar_libro.py",
+		"/D/crisg/GitHub/fp/unudad_3/Biblioteca/Eliminar_libro.py",
+		"/D/crisg/GitHub/fp/unudad_3/Biblioteca/Consultar_libro.py",
+		"/D/crisg/Nueva carpeta/gas/turnos.py",
+		"/D/crisg/Nueva carpeta/gas/Registro_de_entradas.py",
+		"/D/crisg/Nueva carpeta/Nueva carpeta/trabajadores.py",
+		"/D/crisg/GitHub/fp/unudad_3/Consultar_libro.py",
+		"/D/crisg/GitHub/fp/unudad_3/Encapsulamiento.py",
+		"/D/crisg/GitHub/fp/unudad_3/poliformismo.py",
+		"/D/crisg/GitHub/fp/unudad_3/Abstraccion.py",
+		"/D/crisg/Downloads/Diccionario_2.py",
+		"/D/crisg/GitHub/fp/unidad_2/Lista_3.py",
+		"/D/crisg/GitHub/fp/unidad_2/Dicionario_2.py",
+		"/D/crisg/GitHub/fp/unidad_2/Notas_2.2 .ipynb",
+		"/D/crisg/Downloads/Abstraccion.py",
+		"/D/crisg/Documentos/Dicionario_2.py",
+		"/D/crisg/GitHub/fp/unidad 2/Lista_1.py",
+		"/D/crisg/GitHub/fp/unidad 2/Lista_3.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/Diccionario.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/diccionario.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/Dicionario_2.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/dicionario2.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/lista3.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/lisata2.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/lista.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/comentarios2.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/unidad 2/ejersicio.py",
+		"/C/Users/crisg/OneDrive/Documentos/pyhton/ejersicio.py",
+		"/C/Users/crisg/OneDrive/Documentos/pyhton/tipo_de_datos.py",
+		"/C/Users/crisg/OneDrive/Documentos/GitHub/fp/tipo_de_datos.py",
+		"/D/crisg/Documents/GitHub/fp/raiz.py",
+		"/D/crisg/Documents/pyhton/raiz.py",
+		"/D/crisg/Documents/GitHub/raizfd/raiz.py",
+		"/D/hola-phiton/hola.py",
+		"/D/hola-phiton/hola.pay",
+		"/D/crisg/Downloads/Plantilla Puntos de Casos de Uso - Parcial 2.xlsx"
+	],
+	"find":
+	{
+		"height": 893.6
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"import hashlib\nimport os\n\nvos\nCARPETA = \"TXT\"\n\n# Crear carpeta si no existe\nos.makedirs(CARPETA, exist_ok=True)\n\n# Archivo dentro de la carpeta\nARCHIVO_USUARIOS = os.path.join(CARPETA, \"usuarios.txt\")\n\n# Comprobar si el archivo existe, y si no, crearlo\nif not os.path.exists(ARCHIVO_USUARIOS):\n    open(ARCHIVO_USUARIOS, \"a\").close()\n\ndef hash_contraseña(contraseña):\n    return hashlib.sha256(contraseña.encode()).hexdigest()\n\ndef registrar_usuario(nombre_usuario, contraseña):\n    hash_contra = hash_contraseña(contraseña)\n    with open(ARCHIVO_USUARIOS, 'a') as archivo:\n        archivo.write(f'{nombre_usuario},{hash_contra}\\n')\n    print(\"Usuario registrado exitosamente.\")\n\ndef iniciar_sesion(nombre_usuario, contraseña):\n    hash_contra = hash_contraseña(contraseña)\n    try:\n        with open(ARCHIVO_USUARIOS, 'r') as archivo:\n            for linea in archivo:\n                usuario, contra_hash = linea.strip().split(',')\n                if usuario == nombre_usuario and contra_hash == hash_contra:\n                    print(\"Inicio de sesión exitoso.\")\n                    return True\n        print(\"Nombre de usuario o contraseña incorrectos.\")\n        return False\n    except FileNotFoundError:\n        print(\"No se encontró el archivo de usuarios.\")\n        return False\n\ndef menu():\n    while True:\n        print(\"\\n--- MENÚ ---\")\n        print(\"1. Registrar usuario\")\n        print(\"2. Iniciar sesión\")\n        print(\"3. Salir\")\n\n        opcion = input(\"Elige una opción: \")\n\n        if opcion == \"1\":\n            usuario = input(\"Nuevo usuario: \")\n            contraseña = input(\"Nueva contraseña: \")\n            registrar_usuario(usuario, contraseña)\n\n        elif opcion == \"2\":\n            usuario = input(\"Usuario: \")\n            contraseña = input(\"Contraseña: \")\n            iniciar_sesion(usuario, contraseña)\n\n        elif opcion == \"3\":\n            print(\"Saliendo...\")\n            break\n\n        else:\n            print(\"Opción inválida.\")\n\nif __name__ == \"__main__\":\n    menu()",
+			"\")\n",
+			"break",
+			"# -*- coding: utf-8 -*-\n\n# Form implementation generated from reading ui file 'login2.ui'\n#\n# Created by: PyQt5 UI code generator 5.15.11\n#\n# WARNING: Any manual changes made to this file will be lost when pyuic5 is\n# run again.  Do not edit this file unless you know what you are doing.\n\n\nfrom PyQt5 import QtCore, QtGui, QtWidgets\n\n\nclass Ui_Dialog(object):\n    def setupUi(self, Dialog):\n        Dialog.setObjectName(\"Dialog\")\n        Dialog.resize(394, 405)\n        self.label = QtWidgets.QLabel(Dialog)\n        self.label.setGeometry(QtCore.QRect(0, 0, 391, 411))\n        self.label.setStyleSheet(\"background-image: url(:/newPrefix/fondologin.jpeg);\")\n        self.label.setText(\"\")\n        self.label.setPixmap(QtGui.QPixmap(\":/newPrefix/fondologin.jpeg\"))\n        self.label.setScaledContents(True)\n        self.label.setObjectName(\"label\")\n        self.label_2 = QtWidgets.QLabel(Dialog)\n        self.label_2.setGeometry(QtCore.QRect(30, 0, 341, 61))\n        self.label_2.setStyleSheet(\"font: 87 25pt \\\"Arial Black\\\";\\n\"\n\"color: rgb(255, 255, 255);\")\n        self.label_2.setObjectName(\"label_2\")\n        self.leUsuario = QtWidgets.QLineEdit(Dialog)\n        self.leUsuario.setGeometry(QtCore.QRect(90, 90, 191, 20))\n        self.leUsuario.setObjectName(\"leUsuario\")\n        self.lePass = QtWidgets.QLineEdit(Dialog)\n        self.lePass.setGeometry(QtCore.QRect(90, 130, 191, 20))\n        self.lePass.setObjectName(\"lePass\")\n        self.btnIngresar = QtWidgets.QPushButton(Dialog)\n        self.btnIngresar.setGeometry(QtCore.QRect(120, 190, 121, 31))\n        self.btnIngresar.setStyleSheet(\"background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(180, 180, 180, 255), stop:1 rgba(255, 255, 255, 255));\\n\"\n\"font: 87 10pt \\\"Arial Black\\\";\")\n        self.btnIngresar.setObjectName(\"btnIngresar\")\n        self.btnIngresar_2 = QtWidgets.QPushButton(Dialog)\n        self.btnIngresar_2.setGeometry(QtCore.QRect(120, 230, 121, 31))\n        self.btnIngresar_2.setStyleSheet(\"background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(180, 180, 180, 255), stop:1 rgba(255, 255, 255, 255));\\n\"\n\"font: 87 10pt \\\"Arial Black\\\";\")\n        self.btnIngresar_2.setObjectName(\"btnIngresar_2\")\n        self.btnIngresar_3 = QtWidgets.QPushButton(Dialog)\n        self.btnIngresar_3.setGeometry(QtCore.QRect(120, 320, 121, 31))\n        self.btnIngresar_3.setStyleSheet(\"background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:0, stop:0 rgba(180, 180, 180, 255), stop:1 rgba(255, 255, 255, 255));\\n\"\n\"font: 87 10pt \\\"Arial Black\\\";\")\n        self.btnIngresar_3.setObjectName(\"btnIngresar_3\")\n\n        self.retranslateUi(Dialog)\n        QtCore.QMetaObject.connectSlotsByName(Dialog)\n\n    def retranslateUi(self, Dialog):\n        _translate = QtCore.QCoreApplication.translate\n        Dialog.setWindowTitle(_translate(\"Dialog\", \"Dialog\"))\n        self.label_2.setText(_translate(\"Dialog\", \"Inicio de Sesion\"))\n        self.leUsuario.setPlaceholderText(_translate(\"Dialog\", \"Ingresa tu Usuario\"))\n        self.lePass.setPlaceholderText(_translate(\"Dialog\", \"Ingresa tu Contraseña\"))\n        self.btnIngresar.setText(_translate(\"Dialog\", \"INGRESAR\"))\n        self.btnIngresar_2.setText(_translate(\"Dialog\", \"REGISTRAR\"))\n        self.btnIngresar_3.setText(_translate(\"Dialog\", \"SALIR\"))\nimport prueba_rc\n\n\nif __name__ == \"__main__\":\n    import sys\n    app = QtWidgets.QApplication(sys.argv)\n    Dialog = QtWidgets.QDialog()\n    ui = Ui_Dialog()\n    ui.setupUi(Dialog)\n    Dialog.show()\n    sys.exit(app.exec_())\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "PANTALLAS_EN_PY/login2.py",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1210.4,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "PANTALLAS_EN_PY/Registro_usuario.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4426,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								555,
+								555
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 893.6
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 239.199996948,
+		"history":
+		[
+		]
+	},
+	"output.Debugger Console":
+	{
+		"height": 239.199996948,
+		"history":
+		[
+		]
+	},
+	"output.exec":
+	{
+		"height": 209.0,
+		"history":
+		[
+			"2",
+			"4",
+			"2025-12-04 05:55:00",
+			"1",
+			"GUILLERMO",
+			"1",
+			"GUILLERMO",
+			"1",
+			"GUILLERMO",
+			"1",
+			"GUILLERMO",
+			"1",
+			"GUILLERMO",
+			"1",
+			"2025-12-04 13:55:00",
+			"2",
+			"GUILLERMO",
+			"1",
+			"2025-12-04 13:55:00",
+			"2",
+			"IVAN",
+			"1",
+			"2025-12-01 13:55:00",
+			"2",
+			"IVAN",
+			"1",
+			"2",
+			"1",
+			"2025-12-03 06:01",
+			"1",
+			"martin",
+			"1",
+			"martin",
+			"1",
+			"123",
+			"CRIS",
+			"1",
+			"3",
+			"2",
+			"2025-12-01 06:55:00",
+			"1",
+			"MARTIN ",
+			"1",
+			"3",
+			"2",
+			"3",
+			"123",
+			"CRIS",
+			"1",
+			"123",
+			"CRIS",
+			"123",
+			"cris",
+			"1",
+			"2",
+			"1",
+			"5",
+			"123",
+			"CRIS",
+			"1",
+			"123",
+			"cris",
+			"1",
+			"2",
+			"3",
+			"4",
+			"2",
+			"3",
+			"`3",
+			"123",
+			"CRIS",
+			"1",
+			"2",
+			"3",
+			"2",
+			"123",
+			"CRIS",
+			"1",
+			"1231",
+			"CRIS",
+			"1",
+			"123",
+			"CRIS",
+			"2",
+			"123",
+			"CRIS",
+			"1",
+			"123",
+			"cris",
+			"1",
+			"123",
+			"CRIS",
+			"1",
+			"123",
+			"CRIS",
+			"2",
+			"123",
+			"CRIS",
+			"1",
+			"4",
+			"2",
+			"1",
+			"4",
+			"1",
+			"5",
+			"18",
+			"1",
+			"5",
+			"2",
+			"3",
+			"2",
+			"3",
+			"2",
+			"3",
+			"2",
+			"17",
+			"1",
+			"5",
+			"15",
+			"1",
+			"5",
+			"14",
+			"1",
+			"5",
+			"13",
+			"1",
+			"5",
+			"12"
+		]
+	},
+	"output.find_results":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "pro.sublime-project",
+	"replace":
+	{
+		"height": 1784.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
